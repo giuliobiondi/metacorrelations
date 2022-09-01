@@ -1,0 +1,3 @@
+[submodule "code/metacorrelations/snap"]
+	path = code/metacorrelations/snap
+	url = https://github.com/snap-stanford/snap.git
